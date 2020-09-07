@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83241607279",
+    "firebase_url": "https://bp-sensortesting.firebaseio.com",
+    "project_id": "bp-sensortesting",
+    "storage_bucket": "bp-sensortesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83241607279:android:a187f581f4024823052d9a",
+        "android_client_info": {
+          "package_name": "com.pdf.bp_sensortesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83241607279-rnsifuqsv33d2cepofabii5bvv68m8eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64qHvMn6SlHV7zlCRLtfRCPcndDsS63I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83241607279-rnsifuqsv33d2cepofabii5bvv68m8eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
